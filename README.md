@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Sebastian! <br/><a href="#">Undergraduate Student</a>, <a>Programmer</a>
 
-<!--
-**SEBAS0078/SEBAS0078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Research Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Portfolio</b>
+  - [Portfolio](https://sebas0078.github.io/sebastiancruz.github.io/index.html)
+- <b>Analyzing Vermont Town Hall Meeting Minutes </b>
+  - [Interactive public website feature text and statistical analyses](https://sebastiancruz.shinyapps.io/Vermont_Minutes/)
+</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-cruz-549b82285?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1dteF3mKQ9WOMPy8%2FNn%2BxA%3D%3D)
+
