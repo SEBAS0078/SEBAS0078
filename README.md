@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href="#">Undergraduate Student</a>, <a>Programmer</a>
+<h1>Hi, I'm Sebastian! <br/><a>Undergraduate Student</a>, <a>Programmer</a>
 
 <h2>👨‍💻 Research Projects:</h2>
 
