@@ -5,7 +5,7 @@
 - <b>Portfolio</b>
   - [Portfolio](https://sebas0078.github.io/sebastiancruz.github.io/index.html)
 - <b>Analyzing Vermont Town Hall Meeting Minutes </b>
-  - [Interactive public website feature text and statistical analyses](https://sebastiancruz.shinyapps.io/Vermont_Minutes/)
+  - [Interactive public website featuring text and statistical analyses](https://sebastiancruz.shinyapps.io/Vermont_Minutes/)
 </b></i>
 
 
