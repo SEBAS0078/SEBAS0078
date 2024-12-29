@@ -10,7 +10,7 @@
 - <b>Portfolio</b>
   - [Portfolio](https://sebas0078.github.io/sebastiancruz.github.io/index.html)</b>
 - <b>Text Mining Website</b>
-  - [Website featuring an interactive way of easily visualizing data from a provided text](https://sebas0078.github.io/sebastiancruz.github.io/index.html)</b>
+  - [Website featuring an interactive way of easily visualizing data from a provided text](https://sebastiancruz.shinyapps.io/TextAnalyserApp/)</b>
 </i>
 
 
