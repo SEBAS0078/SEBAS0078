@@ -11,6 +11,8 @@
   - [Portfolio](https://sebas0078.github.io/sebastiancruz.github.io/index.html)</b>
 - <b>Text Mining Website</b>
   - [Website featuring an interactive way of easily visualizing data from a provided text](https://sebastiancruz.shinyapps.io/TextAnalyserApp/)</b>
+- <b>Battellgrounds Community Event Website</b>
+  - [Event website  to display info for a community engament event](https://sebas0078.github.io/Battellgrounds)</b>
 </i>
 
 
