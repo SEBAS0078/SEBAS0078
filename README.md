@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Research Experience</h2>
 - <b>NPSV-deep </b>
-  - [Detecting stcrutural variant genotyping it with deep neral networks by recasting it as an image similarity problem]
-  
+  - [Detecting stcrutural variant genotyping it with deep neral networks by recasting it as an image similarity problem](https://academic.oup.com/bioinformatics/article/40/3/btae129/7623007)
 - <b>Analyzing Vermont Town Hall Meeting Minutes </b>
   - [Interactive public website featuring text and statistical analyses](https://sebastiancruz.shinyapps.io/Vermont_Minutes/)
 </b>
