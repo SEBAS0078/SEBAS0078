@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Research Experience</h2>
 
-- <b>Portfolio</b>
+- <b>Detecting structural variant genotyping with deep neural networks</b>
   - [Detecting structural variant genotyping with deep neural networks by recasting it as an image similarity problem](https://academic.oup.com/bioinformatics/article/40/3/btae129/7623007)</b>
 - <b>Analyzing Vermont Town Hall Meeting Minutes </b>
   - [Interactive public website featuring text and statistical analyses](https://sebastiancruz.shinyapps.io/Vermont_Minutes/)
