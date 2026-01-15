@@ -43,7 +43,7 @@ Programmer • Research Assistant • Full-Stack Developer
     <b>MiddBin</b> | Full-Stack Marketplace (React, Next.js, Supabase)<br/>
     Scrum Master and Developer for a student-run campus marketplace.<br/>
     Built listing creation, image upload workflows, authentication, and database integrations.<br/>
-    <a href="https://github.com/csci0312-f25/project-amber-aardvark">
+    <a href="https://github.com/SEBAS0078/MiddBin">
       GitHub Repository
     </a>
   </li>
