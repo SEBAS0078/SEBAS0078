@@ -59,7 +59,7 @@ Programmer • Research Assistant • Full-Stack Developer
   <br/>
   <li>
     <b>Portfolio Website</b><br/>
-    <a href="https://sebas0078.github.io/sebastiancruz.github.io/index.html">
+    <a href="https://sebastiancruz.netlify.app">
       Personal portfolio showcasing projects and research
     </a>
   </li>
