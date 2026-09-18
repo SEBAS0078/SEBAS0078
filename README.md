@@ -1,8 +1,25 @@
 <h1>Hi, I'm Sebastian 👋</h1>
 <p>
 Undergraduate Computer Science student at Middlebury College<br/>
-Programmer • Research Assistant • Full-Stack Developer
+AI Lead • Full-Stack Developer • Research Assistant
 </p>
+
+<h2>💼 Professional Experience</h2>
+
+<ul>
+  <li>
+    <b>AI Lead and Backend Developer</b>, Altheros Capital (Spring 2026 – Present)<br/>
+    Lead a backend AI team as technical lead, coordinating development, reviewing pull requests, and driving Agile sprint planning and architectural decisions.<br/>
+    Designed and implemented Retrieval-Augmented Generation (RAG) infrastructure in Python, building document ingestion pipelines that chunk, embed, and store knowledge in PostgreSQL/pgvector for AI-powered retrieval.<br/>
+    Built RESTful backend APIs, data models, and AI services using Python and Pydantic.
+  </li>
+  <br/>
+  <li>
+    <b>Backend Developer</b>, Text Maddie (Summer 2026)<br/>
+    Developed backend workflows for AI-powered lead conversion agents, automating follow-ups, appointment scheduling, and CRM updates across HubSpot, Slack, and messaging platforms.<br/>
+    Engineered AI agent behaviors and tool integrations to support natural customer conversations while coordinating multi-agent interactions.
+  </li>
+</ul>
 
 <h2>👨‍💻 Research Experience</h2>
 
@@ -39,6 +56,21 @@ Programmer • Research Assistant • Full-Stack Developer
 <h2>🚀 Technical Projects</h2>
 
 <ul>
+  <li>
+    <b>PlanIQ</b> | Schedule Optimization (Next.js, TypeScript, FastAPI, Python)<br/>
+    Automatic schedule optimizer that models personal scheduling as a Constraint Satisfaction Problem, using AC-3 arc consistency and backtracking search to turn to-do lists into optimized calendars. Integrates Google Calendar and Gemini for task extraction from documents.<br/>
+    <a href="https://github.com/SEBAS0078/planIQ">
+      GitHub Repository
+    </a>
+  </li>
+  <br/>
+  <li>
+    <b>ASCII Camera</b> | Real-Time Video-to-ASCII Converter (p5.js, JavaScript, Canvas2D)<br/>
+    Real-time webcam/video/image-to-ASCII-art converter with 8 render modes (braille, half-block, ANSI, matrix, emoji), dithering, audio-reactive effects, and GIF/video export. Built end-to-end with Claude Code, from feature development through automated Playwright testing to production deployment.<br/>
+    <a href="https://video-to-ascii.netlify.app">Live Demo</a> ·
+    <a href="https://github.com/SEBAS0078/video-to-ascii">GitHub Repository</a>
+  </li>
+  <br/>
   <li>
     <b>MiddBin</b> | Full-Stack Marketplace (React, Next.js, Supabase)<br/>
     Scrum Master and Developer for a student-run campus marketplace.<br/>
@@ -82,9 +114,10 @@ Programmer • Research Assistant • Full-Stack Developer
 <h2>🛠️ Technical Skills</h2>
 
 <ul>
-  <li>Languages: Python, JavaScript, Java, C/C++, R</li>
-  <li>Frameworks & Tools: React, Next.js, Supabase, PyTorch, Git</li>
-  <li>Web: HTML, CSS</li>
+  <li>Languages: Python, JavaScript, TypeScript, Java, C/C++, R</li>
+  <li>Frameworks & Tools: React, Next.js, FastAPI, Supabase, PyTorch, Git</li>
+  <li>AI/Backend: RAG, PostgreSQL, pgvector, Pydantic, AI Agents</li>
+  <li>Web: HTML, CSS, p5.js, Canvas2D</li>
   <li>Other: Embedded Systems, MQTT, Data Analysis, NLP</li>
 </ul>
 
