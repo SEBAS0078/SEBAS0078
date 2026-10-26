@@ -59,6 +59,9 @@ AI Lead • Full-Stack Developer • Research Assistant
   <li>
     <b>PlanIQ</b> | Schedule Optimization (Next.js, TypeScript, FastAPI, Python)<br/>
     Automatic schedule optimizer that models personal scheduling as a Constraint Satisfaction Problem, using AC-3 arc consistency and backtracking search to turn to-do lists into optimized calendars. Integrates Google Calendar and Gemini for task extraction from documents.<br/>
+    <a href="https://planiq.tailb4183f.ts.net">
+      Live Demo
+    </a>
     <a href="https://github.com/SEBAS0078/planIQ">
       GitHub Repository
     </a>
